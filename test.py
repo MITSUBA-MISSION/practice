@@ -1,2 +1,2 @@
-name = ["Ozoe", "aaa", "Fujiwara"]
-number = ["231A2043", "231A2138"]
+name = ["Ozoe", "aaa", "Fujiwara", "nagata"]
+number = ["231A2043", "231A2138", "231A3094"]
